@@ -1,0 +1,72 @@
+2026-04-08 23:48:08,888 - INFO - 🚀 Bot ishga tushdi...
+2026-04-08 23:48:08,889 - INFO - Start polling
+2026-04-08 23:48:09,280 - INFO - Run polling for bot @KinoVaultsBot id=7927133592 - 'KinoVault'
+2026-04-08 23:48:09,641 - INFO - Update id=552086116 is not handled. Duration 31 ms by bot id=7927133592
+2026-04-08 23:48:10,116 - INFO - Update id=552086109 is handled. Duration 500 ms by bot id=7927133592
+2026-04-08 23:48:10,117 - INFO - Update id=552086085 is handled. Duration 578 ms by bot id=7927133592
+2026-04-08 23:48:10,155 - INFO - Update id=552086090 is handled. Duration 608 ms by bot id=7927133592
+2026-04-08 23:48:10,217 - INFO - Update id=552086089 is handled. Duration 671 ms by bot id=7927133592
+2026-04-08 23:48:10,281 - INFO - Update id=552086097 is handled. Duration 687 ms by bot id=7927133592
+2026-04-08 23:48:10,309 - INFO - Update id=552086112 is handled. Duration 687 ms by bot id=7927133592
+2026-04-08 23:48:10,337 - INFO - Update id=552086105 is handled. Duration 734 ms by bot id=7927133592
+2026-04-08 23:48:14,523 - INFO - Update id=552086117 is handled. Duration 218 ms by bot id=7927133592
+2026-04-08 23:48:15,411 - INFO - Update id=552086086 is handled. Duration 5858 ms by bot id=7927133592
+2026-04-08 23:48:15,470 - INFO - Update id=552086087 is handled. Duration 5921 ms by bot id=7927133592
+2026-04-08 23:48:15,529 - INFO - Update id=552086107 is handled. Duration 5921 ms by bot id=7927133592
+2026-04-08 23:48:15,586 - INFO - Update id=552086102 is handled. Duration 5984 ms by bot id=7927133592
+2026-04-08 23:48:15,656 - INFO - Update id=552086093 is handled. Duration 6108 ms by bot id=7927133592
+2026-04-08 23:48:20,690 - INFO - Update id=552086103 is handled. Duration 11094 ms by bot id=7927133592
+2026-04-08 23:48:20,690 - INFO - Update id=552086100 is handled. Duration 11094 ms by bot id=7927133592
+2026-04-08 23:48:20,691 - INFO - Update id=552086113 is handled. Duration 11078 ms by bot id=7927133592
+2026-04-08 23:48:20,691 - INFO - Update id=552086095 is handled. Duration 11140 ms by bot id=7927133592
+2026-04-08 23:48:20,691 - INFO - Update id=552086094 is handled. Duration 11140 ms by bot id=7927133592
+2026-04-08 23:48:20,691 - INFO - Update id=552086092 is handled. Duration 11140 ms by bot id=7927133592
+2026-04-08 23:48:20,692 - INFO - Update id=552086088 is handled. Duration 11140 ms by bot id=7927133592
+2026-04-08 23:48:20,692 - INFO - Update id=552086099 is handled. Duration 11094 ms by bot id=7927133592
+2026-04-08 23:48:20,692 - INFO - Update id=552086091 is handled. Duration 11140 ms by bot id=7927133592
+2026-04-08 23:48:20,692 - INFO - Update id=552086108 is handled. Duration 11078 ms by bot id=7927133592
+2026-04-08 23:48:20,692 - INFO - Update id=552086111 is handled. Duration 11078 ms by bot id=7927133592
+2026-04-08 23:48:20,692 - INFO - Update id=552086096 is handled. Duration 11140 ms by bot id=7927133592
+2026-04-08 23:48:20,693 - INFO - Update id=552086106 is handled. Duration 11094 ms by bot id=7927133592
+2026-04-08 23:48:20,693 - INFO - Update id=552086115 is handled. Duration 11078 ms by bot id=7927133592
+2026-04-08 23:48:20,693 - INFO - Update id=552086114 is handled. Duration 11078 ms by bot id=7927133592
+2026-04-08 23:48:20,693 - INFO - Update id=552086110 is handled. Duration 11078 ms by bot id=7927133592
+2026-04-08 23:48:20,693 - INFO - Update id=552086104 is handled. Duration 11094 ms by bot id=7927133592
+2026-04-08 23:48:20,736 - INFO - Update id=552086098 is handled. Duration 11140 ms by bot id=7927133592
+2026-04-08 23:48:20,766 - INFO - Update id=552086101 is handled. Duration 11172 ms by bot id=7927133592
+2026-04-08 23:50:07,689 - INFO - Update id=552086118 is handled. Duration 547 ms by bot id=7927133592
+2026-04-08 23:50:14,054 - INFO - Update id=552086119 is handled. Duration 531 ms by bot id=7927133592
+2026-04-08 23:54:26,034 - INFO - Polling stopped
+2026-04-08 23:54:26,036 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-04-08 23:54:26,036 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7927133592)
+2026-04-08 23:54:26,292 - INFO - Bot to'xtatildi (KeyboardInterrupt)
+2026-04-08 23:54:41,285 - INFO - 🚀 Bot ishga tushdi...
+2026-04-08 23:54:41,286 - INFO - Start polling
+2026-04-08 23:54:41,601 - INFO - Run polling for bot @KinoVaultsBot id=7927133592 - 'KinoVault'
+2026-04-08 23:54:49,899 - INFO - Obuna tekshirish boshlandi. User ID: 8136481850
+2026-04-08 23:54:50,222 - INFO - ✅ @kinovaulttime → Status: creator
+2026-04-08 23:54:50,317 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: creator
+2026-04-08 23:54:50,412 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: creator
+2026-04-08 23:54:50,412 - INFO - Umumiy natija: ✅ Obuna bor
+2026-04-08 23:54:50,539 - INFO - Update id=552086120 is handled. Duration 640 ms by bot id=7927133592
+2026-04-08 23:55:00,393 - INFO - Obuna tekshirish boshlandi. User ID: 8136481850
+2026-04-08 23:55:00,489 - INFO - ✅ @kinovaulttime → Status: creator
+2026-04-08 23:55:00,585 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: creator
+2026-04-08 23:55:00,704 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: creator
+2026-04-08 23:55:00,705 - INFO - Umumiy natija: ✅ Obuna bor
+2026-04-08 23:55:00,829 - INFO - Update id=552086121 is handled. Duration 437 ms by bot id=7927133592
+2026-04-08 23:55:09,257 - INFO - Obuna tekshirish boshlandi. User ID: 8136481850
+2026-04-08 23:55:09,440 - INFO - ✅ @kinovaulttime → Status: creator
+2026-04-08 23:55:09,535 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: creator
+2026-04-08 23:55:09,629 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: creator
+2026-04-08 23:55:09,629 - INFO - Umumiy natija: ✅ Obuna bor
+2026-04-08 23:55:09,740 - INFO - Update id=552086122 is handled. Duration 484 ms by bot id=7927133592
+2026-04-08 23:55:13,314 - INFO - Obuna tekshirish boshlandi. User ID: 8136481850
+2026-04-08 23:55:13,410 - INFO - ✅ @kinovaulttime → Status: creator
+2026-04-08 23:55:13,506 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: creator
+2026-04-08 23:55:13,653 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: creator
+2026-04-08 23:55:13,653 - INFO - Umumiy natija: ✅ Obuna bor
+2026-04-08 23:55:13,869 - INFO - Update id=552086123 is handled. Duration 546 ms by bot id=7927133592
+2026-04-08 23:56:44,542 - INFO - Polling stopped
+2026-04-08 23:56:44,544 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-04-08 23:56:44,544 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7927133592)
