@@ -254,3 +254,34 @@
 2026-04-15 06:14:24,119 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: creator
 2026-04-15 06:14:24,119 - INFO - Umumiy natija: ✅ Obuna bor
 2026-04-15 06:14:24,236 - INFO - Update id=552086324 is handled. Duration 437 ms by bot id=7927133592
+2026-04-15 06:46:04,142 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-04-15 06:46:04,143 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7927133592)
+2026-04-15 06:46:05,153 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-15 06:46:05,153 - WARNING - Sleep for 1.310813 seconds and try again... (tryings = 1, bot id = 7927133592)
+2026-04-15 06:46:06,474 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-15 06:46:06,475 - WARNING - Sleep for 1.647939 seconds and try again... (tryings = 2, bot id = 7927133592)
+2026-04-15 06:46:08,140 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-15 06:46:08,140 - WARNING - Sleep for 2.368676 seconds and try again... (tryings = 3, bot id = 7927133592)
+2026-04-15 06:46:10,522 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-15 06:46:10,522 - WARNING - Sleep for 3.112676 seconds and try again... (tryings = 4, bot id = 7927133592)
+2026-04-15 06:46:13,645 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-15 06:46:13,645 - WARNING - Sleep for 4.198043 seconds and try again... (tryings = 5, bot id = 7927133592)
+2026-04-15 06:51:20,868 - INFO - Connection established (tryings = 6, bot id = 7927133592)
+2026-04-15 06:56:13,604 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-15 06:56:13,605 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7927133592)
+2026-04-15 06:56:14,606 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-15 06:56:14,606 - WARNING - Sleep for 1.364297 seconds and try again... (tryings = 1, bot id = 7927133592)
+2026-04-15 06:56:15,988 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-15 06:56:15,989 - WARNING - Sleep for 1.767692 seconds and try again... (tryings = 2, bot id = 7927133592)
+2026-04-15 06:56:17,764 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-15 06:56:17,765 - WARNING - Sleep for 2.213486 seconds and try again... (tryings = 3, bot id = 7927133592)
+2026-04-15 06:56:19,993 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-15 06:56:19,993 - WARNING - Sleep for 2.788193 seconds and try again... (tryings = 4, bot id = 7927133592)
+2026-04-15 06:56:22,786 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-15 06:56:22,786 - WARNING - Sleep for 3.672314 seconds and try again... (tryings = 5, bot id = 7927133592)
+2026-04-15 06:59:54,067 - INFO - Connection established (tryings = 6, bot id = 7927133592)
+2026-04-15 07:00:43,796 - INFO - Polling stopped
+2026-04-15 07:00:43,798 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-04-15 07:00:43,798 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7927133592)
+2026-04-15 07:00:44,061 - INFO - Polling stopped for bot @KinoVaultsBot id=7927133592 - 'KinoVault'
+2026-04-15 07:00:44,064 - INFO - Bot to'xtatildi (KeyboardInterrupt)

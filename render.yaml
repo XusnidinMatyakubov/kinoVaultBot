@@ -1,0 +1,15 @@
+services:
+  - type: worker
+    name: kinovautlbot
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python main.py
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: ADMIN_ID
+        sync: false
+      - key: CHANNELS
+        value: "@kinovaulttime,@Toshkentdan_Andijonga_Taksi,@Namangandan_Tashkentga_taxi"
+      - key: DB_PATH
+        value: /var/data/kinovault.db
