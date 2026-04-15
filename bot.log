@@ -70,3 +70,187 @@
 2026-04-08 23:56:44,542 - INFO - Polling stopped
 2026-04-08 23:56:44,544 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
 2026-04-08 23:56:44,544 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7927133592)
+2026-04-15 06:11:15,566 - INFO - 🚀 Bot ishga tushdi...
+2026-04-15 06:11:15,566 - INFO - Start polling
+2026-04-15 06:11:15,881 - INFO - Run polling for bot @KinoVaultsBot id=7927133592 - 'KinoVault'
+2026-04-15 06:11:15,994 - INFO - Obuna tekshirish boshlandi. User ID: 1235293495
+2026-04-15 06:11:15,996 - INFO - Obuna tekshirish boshlandi. User ID: 7947632864
+2026-04-15 06:11:15,997 - INFO - Obuna tekshirish boshlandi. User ID: 1235293495
+2026-04-15 06:11:15,997 - INFO - Obuna tekshirish boshlandi. User ID: 1235293495
+2026-04-15 06:11:15,998 - INFO - Obuna tekshirish boshlandi. User ID: 492809722
+2026-04-15 06:11:15,998 - INFO - Obuna tekshirish boshlandi. User ID: 492809722
+2026-04-15 06:11:15,999 - INFO - Obuna tekshirish boshlandi. User ID: 1235293495
+2026-04-15 06:11:15,999 - INFO - Obuna tekshirish boshlandi. User ID: 492809722
+2026-04-15 06:11:16,000 - INFO - Obuna tekshirish boshlandi. User ID: 492809722
+2026-04-15 06:11:16,000 - INFO - Obuna tekshirish boshlandi. User ID: 492809722
+2026-04-15 06:11:16,000 - INFO - Obuna tekshirish boshlandi. User ID: 492809722
+2026-04-15 06:11:16,002 - INFO - Obuna tekshirish boshlandi. User ID: 1235293495
+2026-04-15 06:11:16,002 - INFO - Obuna tekshirish boshlandi. User ID: 7947632864
+2026-04-15 06:11:16,003 - INFO - Obuna tekshirish boshlandi. User ID: 1235293495
+2026-04-15 06:11:16,003 - INFO - Obuna tekshirish boshlandi. User ID: 1235293495
+2026-04-15 06:11:16,004 - INFO - Obuna tekshirish boshlandi. User ID: 1235293495
+2026-04-15 06:11:16,004 - INFO - Obuna tekshirish boshlandi. User ID: 1235293495
+2026-04-15 06:11:16,005 - INFO - Obuna tekshirish boshlandi. User ID: 1235293495
+2026-04-15 06:11:16,006 - INFO - Obuna tekshirish boshlandi. User ID: 8508056875
+2026-04-15 06:11:16,006 - INFO - Obuna tekshirish boshlandi. User ID: 492809722
+2026-04-15 06:11:16,007 - INFO - Obuna tekshirish boshlandi. User ID: 492809722
+2026-04-15 06:11:16,291 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,291 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,292 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,292 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,295 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,295 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,296 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,296 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,296 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,296 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,299 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,299 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,304 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,304 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,306 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,306 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,307 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,307 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,308 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,308 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,383 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,383 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,383 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,384 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,385 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,385 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,385 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,385 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,386 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,386 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,387 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,387 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,387 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,387 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,389 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,389 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,390 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,390 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,391 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,391 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,391 - INFO - ✅ @kinovaulttime → Status: left
+2026-04-15 06:11:16,391 - WARNING - ❌ @kinovaulttime ga obuna emas (status: left)
+2026-04-15 06:11:16,392 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: left
+2026-04-15 06:11:16,392 - WARNING - ❌ @Toshkentdan_Andijonga_Taksi ga obuna emas (status: left)
+2026-04-15 06:11:16,393 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: left
+2026-04-15 06:11:16,393 - WARNING - ❌ @Toshkentdan_Andijonga_Taksi ga obuna emas (status: left)
+2026-04-15 06:11:16,393 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: left
+2026-04-15 06:11:16,393 - WARNING - ❌ @Toshkentdan_Andijonga_Taksi ga obuna emas (status: left)
+2026-04-15 06:11:16,395 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: left
+2026-04-15 06:11:16,395 - WARNING - ❌ @Toshkentdan_Andijonga_Taksi ga obuna emas (status: left)
+2026-04-15 06:11:16,395 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: member
+2026-04-15 06:11:16,396 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: member
+2026-04-15 06:11:16,398 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: member
+2026-04-15 06:11:16,400 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: member
+2026-04-15 06:11:16,403 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: member
+2026-04-15 06:11:16,403 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: member
+2026-04-15 06:11:16,479 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: left
+2026-04-15 06:11:16,480 - WARNING - ❌ @Toshkentdan_Andijonga_Taksi ga obuna emas (status: left)
+2026-04-15 06:11:16,481 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: left
+2026-04-15 06:11:16,481 - WARNING - ❌ @Toshkentdan_Andijonga_Taksi ga obuna emas (status: left)
+2026-04-15 06:11:16,483 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: left
+2026-04-15 06:11:16,483 - WARNING - ❌ @Toshkentdan_Andijonga_Taksi ga obuna emas (status: left)
+2026-04-15 06:11:16,483 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: left
+2026-04-15 06:11:16,484 - WARNING - ❌ @Toshkentdan_Andijonga_Taksi ga obuna emas (status: left)
+2026-04-15 06:11:16,486 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: member
+2026-04-15 06:11:16,487 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: left
+2026-04-15 06:11:16,487 - WARNING - ❌ @Toshkentdan_Andijonga_Taksi ga obuna emas (status: left)
+2026-04-15 06:11:16,489 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: member
+2026-04-15 06:11:16,493 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: member
+2026-04-15 06:11:16,495 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: member
+2026-04-15 06:11:16,495 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,497 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: left
+2026-04-15 06:11:16,497 - WARNING - ❌ @Toshkentdan_Andijonga_Taksi ga obuna emas (status: left)
+2026-04-15 06:11:16,498 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: member
+2026-04-15 06:11:16,499 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: left
+2026-04-15 06:11:16,499 - WARNING - ❌ @Namangandan_Tashkentga_taxi ga obuna emas (status: left)
+2026-04-15 06:11:16,499 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,504 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: member
+2026-04-15 06:11:16,505 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,510 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: member
+2026-04-15 06:11:16,511 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,513 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: member
+2026-04-15 06:11:16,513 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,514 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: left
+2026-04-15 06:11:16,514 - WARNING - ❌ @Toshkentdan_Andijonga_Taksi ga obuna emas (status: left)
+2026-04-15 06:11:16,520 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: left
+2026-04-15 06:11:16,520 - WARNING - ❌ @Namangandan_Tashkentga_taxi ga obuna emas (status: left)
+2026-04-15 06:11:16,521 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,522 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: left
+2026-04-15 06:11:16,522 - WARNING - ❌ @Namangandan_Tashkentga_taxi ga obuna emas (status: left)
+2026-04-15 06:11:16,523 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,527 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: left
+2026-04-15 06:11:16,527 - WARNING - ❌ @Namangandan_Tashkentga_taxi ga obuna emas (status: left)
+2026-04-15 06:11:16,527 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,587 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: left
+2026-04-15 06:11:16,588 - WARNING - ❌ @Namangandan_Tashkentga_taxi ga obuna emas (status: left)
+2026-04-15 06:11:16,588 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,590 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: left
+2026-04-15 06:11:16,590 - WARNING - ❌ @Namangandan_Tashkentga_taxi ga obuna emas (status: left)
+2026-04-15 06:11:16,590 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,592 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: member
+2026-04-15 06:11:16,592 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,593 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: member
+2026-04-15 06:11:16,594 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,595 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: member
+2026-04-15 06:11:16,595 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,598 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: member
+2026-04-15 06:11:16,598 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,599 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: left
+2026-04-15 06:11:16,599 - WARNING - ❌ @Namangandan_Tashkentga_taxi ga obuna emas (status: left)
+2026-04-15 06:11:16,599 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,600 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: member
+2026-04-15 06:11:16,600 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,601 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: left
+2026-04-15 06:11:16,601 - WARNING - ❌ @Namangandan_Tashkentga_taxi ga obuna emas (status: left)
+2026-04-15 06:11:16,601 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,603 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: left
+2026-04-15 06:11:16,603 - WARNING - ❌ @Namangandan_Tashkentga_taxi ga obuna emas (status: left)
+2026-04-15 06:11:16,603 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,605 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: member
+2026-04-15 06:11:16,605 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,611 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: left
+2026-04-15 06:11:16,611 - WARNING - ❌ @Namangandan_Tashkentga_taxi ga obuna emas (status: left)
+2026-04-15 06:11:16,611 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,622 - INFO - Update id=552086305 is handled. Duration 640 ms by bot id=7927133592
+2026-04-15 06:11:16,623 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: member
+2026-04-15 06:11:16,623 - INFO - Umumiy natija: ❌ Obuna yetarli emas
+2026-04-15 06:11:16,647 - INFO - Update id=552086318 is handled. Duration 657 ms by bot id=7927133592
+2026-04-15 06:11:16,648 - INFO - Update id=552086311 is handled. Duration 672 ms by bot id=7927133592
+2026-04-15 06:11:16,678 - INFO - Update id=552086302 is handled. Duration 703 ms by bot id=7927133592
+2026-04-15 06:11:16,703 - INFO - Update id=552086315 is handled. Duration 703 ms by bot id=7927133592
+2026-04-15 06:11:16,713 - INFO - Update id=552086310 is handled. Duration 734 ms by bot id=7927133592
+2026-04-15 06:11:16,760 - INFO - Update id=552086304 is handled. Duration 781 ms by bot id=7927133592
+2026-04-15 06:11:16,776 - INFO - Update id=552086320 is handled. Duration 782 ms by bot id=7927133592
+2026-04-15 06:11:16,830 - INFO - Update id=552086307 is handled. Duration 844 ms by bot id=7927133592
+2026-04-15 06:11:16,890 - INFO - Update id=552086317 is handled. Duration 891 ms by bot id=7927133592
+2026-04-15 06:11:21,822 - INFO - Update id=552086309 is handled. Duration 5844 ms by bot id=7927133592
+2026-04-15 06:11:21,859 - INFO - Update id=552086306 is handled. Duration 5875 ms by bot id=7927133592
+2026-04-15 06:11:21,894 - INFO - Update id=552086313 is handled. Duration 5906 ms by bot id=7927133592
+2026-04-15 06:11:21,920 - INFO - Update id=552086308 is handled. Duration 5937 ms by bot id=7927133592
+2026-04-15 06:11:21,951 - INFO - Update id=552086312 is handled. Duration 5969 ms by bot id=7927133592
+2026-04-15 06:11:21,955 - INFO - Update id=552086321 is handled. Duration 5953 ms by bot id=7927133592
+2026-04-15 06:11:22,033 - INFO - Update id=552086303 is handled. Duration 6047 ms by bot id=7927133592
+2026-04-15 06:11:22,063 - INFO - Update id=552086301 is handled. Duration 6078 ms by bot id=7927133592
+2026-04-15 06:11:22,136 - INFO - Update id=552086316 is handled. Duration 6141 ms by bot id=7927133592
+2026-04-15 06:11:22,187 - INFO - Update id=552086314 is handled. Duration 6203 ms by bot id=7927133592
+2026-04-15 06:11:26,957 - INFO - Update id=552086319 is handled. Duration 10953 ms by bot id=7927133592
+2026-04-15 06:11:50,401 - INFO - Obuna tekshirish boshlandi. User ID: 8136481850
+2026-04-15 06:11:50,518 - INFO - ✅ @kinovaulttime → Status: creator
+2026-04-15 06:11:50,688 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: creator
+2026-04-15 06:11:50,796 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: creator
+2026-04-15 06:11:50,797 - INFO - Umumiy natija: ✅ Obuna bor
+2026-04-15 06:11:50,914 - INFO - Update id=552086322 is handled. Duration 514 ms by bot id=7927133592
+2026-04-15 06:14:02,605 - INFO - Update id=552086323 is handled. Duration 125 ms by bot id=7927133592
+2026-04-15 06:14:23,794 - INFO - Obuna tekshirish boshlandi. User ID: 8136481850
+2026-04-15 06:14:23,894 - INFO - ✅ @kinovaulttime → Status: creator
+2026-04-15 06:14:24,016 - INFO - ✅ @Toshkentdan_Andijonga_Taksi → Status: creator
+2026-04-15 06:14:24,119 - INFO - ✅ @Namangandan_Tashkentga_taxi → Status: creator
+2026-04-15 06:14:24,119 - INFO - Umumiy natija: ✅ Obuna bor
+2026-04-15 06:14:24,236 - INFO - Update id=552086324 is handled. Duration 437 ms by bot id=7927133592
