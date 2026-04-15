@@ -289,3 +289,8 @@
 2026-04-15 07:02:58,383 - INFO - DB fayli: D:\Loyihalar\python\kinovautlbot\data\kinovault.db
 2026-04-15 07:02:58,383 - INFO - Start polling
 2026-04-15 07:02:58,699 - INFO - Run polling for bot @KinoVaultsBot id=7927133592 - 'KinoVault'
+2026-04-15 07:05:51,156 - INFO - Polling stopped
+2026-04-15 07:05:51,157 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-04-15 07:05:51,157 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7927133592)
+2026-04-15 07:05:51,413 - INFO - Polling stopped for bot @KinoVaultsBot id=7927133592 - 'KinoVault'
+2026-04-15 07:05:51,414 - INFO - Bot to'xtatildi (KeyboardInterrupt)

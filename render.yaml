@@ -11,5 +11,3 @@ services:
         sync: false
       - key: CHANNELS
         value: "@kinovaulttime,@Toshkentdan_Andijonga_Taksi,@Namangandan_Tashkentga_taxi"
-      - key: DB_PATH
-        value: /var/data/kinovault.db

@@ -22,6 +22,21 @@ def get_env(name: str, default: str | None = None) -> str:
         raise RuntimeError(f"{name} muhit o'zgaruvchisi topilmadi.")
     return str(value).strip()
 
+
+def resolve_db_path() -> Path:
+    configured_path = os.getenv("DB_PATH")
+    if configured_path:
+        return Path(configured_path).expanduser().resolve()
+
+    render_disk_root = os.getenv("RENDER_DISK_ROOT")
+    if render_disk_root:
+        return (Path(render_disk_root) / "kinovault.db").resolve()
+
+    if IS_RENDER:
+        return Path("/tmp/kinovault.db")
+
+    return (BASE_DIR / "data" / "kinovault.db").resolve()
+
 # Sozlamalar
 LOCAL_BOT_TOKEN = "7927133592:AAGlrKovkfot1Hu6ipt8Yrs2eYh7Zg5LuYE"
 LOCAL_ADMIN_ID = "8136481850"
@@ -37,8 +52,7 @@ CHANNELS = [
     if channel.strip()
 ]
 
-default_db_path = Path("/var/data/kinovault.db") if IS_RENDER else BASE_DIR / "data" / "kinovault.db"
-DB_PATH = Path(os.getenv("DB_PATH", str(default_db_path))).expanduser().resolve()
+DB_PATH = resolve_db_path()
 LOG_PATH = Path(os.getenv("LOG_PATH", str(BASE_DIR / "bot.log"))).expanduser().resolve()
 DB_PATH.parent.mkdir(parents=True, exist_ok=True)
 LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -208,6 +222,8 @@ async def main():
 
     logging.info("Bot ishga tushdi")
     logging.info("DB fayli: %s", DB_PATH)
+    if IS_RENDER and not os.getenv("RENDER_DISK_ROOT") and not os.getenv("DB_PATH"):
+        logging.warning("Render persistent disk topilmadi. SQLite baza /tmp da saqlanadi va restartdan keyin o'chadi.")
 
     try:
         await dp.start_polling(bot, skip_updates=True)
